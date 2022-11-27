@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roman-supercode/lvl2_1_products_props.git/static/css/main.7c670bd2.css",
+    "main.js": "/roman-supercode/lvl2_1_products_props.git/static/js/main.ca3dec8c.js",
+    "index.html": "/roman-supercode/lvl2_1_products_props.git/index.html",
+    "main.7c670bd2.css.map": "/roman-supercode/lvl2_1_products_props.git/static/css/main.7c670bd2.css.map",
+    "main.ca3dec8c.js.map": "/roman-supercode/lvl2_1_products_props.git/static/js/main.ca3dec8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c670bd2.css",
+    "static/js/main.ca3dec8c.js"
+  ]
+}
